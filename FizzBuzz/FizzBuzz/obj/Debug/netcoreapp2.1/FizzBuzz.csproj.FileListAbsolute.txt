@@ -8,3 +8,14 @@ c:\users\richts22\Desktop\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.Ass
 c:\users\richts22\Desktop\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfo.cs
 c:\users\richts22\Desktop\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.dll
 c:\users\richts22\Desktop\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.pdb
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.deps.json
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.json
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.pdb
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Users\richts22\Desktop\UWOSETeam5\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.pdb
