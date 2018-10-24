@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\richts22\\.nuget\\packages\\": {},
+    "C:\\Users\\modern95\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richts22\\Desktop\\UWOSETeam5\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\modern95\\Desktop\\Lab06\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\richts22\\Desktop\\UWOSETeam5\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
-      "packagesPath": "C:\\Users\\richts22\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richts22\\Desktop\\UWOSETeam5\\FizzBuzz\\FizzBuzz\\obj\\",
+      "projectPath": "C:\\Users\\modern95\\Desktop\\Lab06\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "packagesPath": "C:\\Users\\modern95\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\modern95\\Desktop\\Lab06\\FizzBuzz\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\richts22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\modern95\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
